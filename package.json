@@ -1,0 +1,23 @@
+{
+  "name": "myfirstproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohit-uchit/myFirstProject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohit-uchit/myFirstProject/issues"
+  },
+  "homepage": "https://github.com/mohit-uchit/myFirstProject#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10"
+  }
+}
